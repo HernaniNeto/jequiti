@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jequiti/static/css/main.6f56ad69.css",
+    "main.js": "/jequiti/static/js/main.7e1dcedc.js",
+    "static/js/787.f9c6f77a.chunk.js": "/jequiti/static/js/787.f9c6f77a.chunk.js",
+    "index.html": "/jequiti/index.html",
+    "main.6f56ad69.css.map": "/jequiti/static/css/main.6f56ad69.css.map",
+    "main.7e1dcedc.js.map": "/jequiti/static/js/main.7e1dcedc.js.map",
+    "787.f9c6f77a.chunk.js.map": "/jequiti/static/js/787.f9c6f77a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f56ad69.css",
+    "static/js/main.7e1dcedc.js"
+  ]
+}
